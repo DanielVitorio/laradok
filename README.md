@@ -23,9 +23,4 @@ Para baixar o projeto no seu PC, abra o terminal e execute os seguintes comandos
    Use o comando `git clone` para clonar o repositório para o seu diretório local:
 
    ```bash
-   git clone git@github.com:DanielVitorio/laradok.git
-
-   Ou use este comando para baixar o projeto já com o nome definido:
-
-   ```bash
-   git clone git@github.com:DanielVitorio/laradok.git nomeDoProjeto
+   git clone git@github.com:DanielVitorio/laradok.git appName
